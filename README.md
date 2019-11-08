@@ -1,6 +1,11 @@
 # AVR_DS3231_DRIVER
 A driver  for RTC DS3231 using AVR micro-controller
 
+## COMPONENTS
+          
+          AVR microcontroller
+          DS3231 module
+
 ### SETTING RTC TIME
 To set the DS3231 RTC time to your current time we use a struct to contain all the required parameters.
 
